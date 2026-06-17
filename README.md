@@ -4,7 +4,7 @@ A high-performance download manager built in Python that accelerates file transf
 
 ## Author
 
-**Stuti Jeisa Toppo**
+**Stuti**
 
 ---
 
