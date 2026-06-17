@@ -1,4 +1,4 @@
-# Virtual Environment
+# Virtual environments
 venv/
 .venv/
 
@@ -11,16 +11,18 @@ __pycache__/
 # Environment variables
 .env
 
-# IDE
+# VS Code
 .vscode/
+
+# PyCharm
 .idea/
+
+# Logs
+*.log
+
+# Download manager temp files
+*.part
 
 # OS files
 .DS_Store
 Thumbs.db
-
-# Temporary chunk files
-*.part
-
-# Logs
-*.log
